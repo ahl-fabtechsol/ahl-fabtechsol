@@ -16,7 +16,9 @@
 
 ### GitHub Streak:
 
-![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahl-fabtechsol&theme=radical&border_radius=10&bg_color=00000000)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahl-fabtechsol&theme=radical&border_radius=10&background=00000000)](https://git.io/streak-stats)
+
 
 ## 📊 GitHub Stats:
 
