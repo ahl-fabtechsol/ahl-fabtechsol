@@ -16,8 +16,7 @@
 
 ### GitHub Streak:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ahl-fabtechsol&theme=dark&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahl-fabtechsol&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ## 📊 GitHub Stats:
