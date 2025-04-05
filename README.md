@@ -14,10 +14,6 @@
 - 🌱 Learning Blockchain Development & Smart Contracts.
 - 💬 Ask me about JavaScript, React, Node.js, TypeScript, and MongoDB.
 
-### GitHub Streak:
-
-[![GitHub Streak](https://github-readme-streak-stats-xi-steel.vercel.app/?user=ahl-fabtechsol&theme=travelers-theme)](https://git.io/streak-stats)
-
 
 ## 📊 GitHub Stats:
 
