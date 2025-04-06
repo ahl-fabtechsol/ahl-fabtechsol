@@ -15,17 +15,10 @@
 - 💬 Ask me about JavaScript, React, Node.js, TypeScript, and MongoDB.
 
 
-## 📊 GitHub Stats:
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahl-fabtechsol&show_icons=true&count_private=true&theme=radical&hide_title=true&hide=prs&border_radius=10&bg_color=00000000)
-
 ### Most Used Languages:
 
 ![Ahmed's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahl-fabtechsol&layout=compact&theme=radical&border_radius=10&bg_color=00000000)
 
-### My GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahl-fabtechsol&theme=radical&bg_color=00000000)
 
 ## 🛠️ Tech Stack:
 
